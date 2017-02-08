@@ -631,7 +631,7 @@ a {
 }
 
 .page-section--blue {
-  background-color: #2f5572;
+  background-color: #6b722f;
   color: #FFF;
 }
 
@@ -873,7 +873,7 @@ a {
 }
 
 .section-title--blue {
-  color: #2f5572;
+  color: #6b722f;
 }
 
 .section-title--less-margin {
@@ -972,7 +972,7 @@ a {
 }
 
 .testimonial__title {
-  color: #2f5572;
+  color: #6b722f;
   text-align: center;
   font-size: 1.5rem;
   font-weight: 500;
@@ -1404,7 +1404,7 @@ Instead edit gulp/templates/sprite */
           transform: scaleX(1.2);
   -webkit-transform-origin: 100% 0;
           transform-origin: 100% 0;
-  color: #2f5572;
+  color: #6b722f;
   cursor: pointer;
 }
 
