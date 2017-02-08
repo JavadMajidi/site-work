@@ -513,7 +513,7 @@ a {
 }
 
 .btn {
-  background-color: #6b722f;
+  background-color: #d59541;
   color: #FFF;
   text-decoration: none;
   padding: .75rem 1.2rem;
@@ -1327,7 +1327,7 @@ Instead edit gulp/templates/sprite */
   display: block;
   padding: 5px 8px;
   font-size: .8rem;
-  background-color: rgba(47,85,114, .5);
+  background-color: rgba(213,149,65, .5);
 }
 
 @media (min-width: 800px) {
@@ -1417,7 +1417,7 @@ Instead edit gulp/templates/sprite */
 }
 
 .social-icons__icon {
-  background-color: #d59541;
+  background-color: #6b722f;
   display: inline-block;
   margin: 0 5px 5px 5px;
   width: 33%;
